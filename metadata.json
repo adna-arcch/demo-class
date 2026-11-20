@@ -1,0 +1,6 @@
+{
+  "name": "ICT From ABC — Online ICT Academy",
+  "description": "Complete O/L and A/L ICT learning platform with public academy showcase, student portal, and admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
